@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[find(:all, :conditions => ["$1", ])
+		]]></content>
+    <tabTrigger>fac</tabTrigger>
+    <scope>source.ruby.rails, source.ruby, text.html.ruby</scope>
+    <description>find_all_conditions</description>
+</snippet>

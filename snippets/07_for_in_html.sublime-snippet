@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[<% for ${1:item} in ${2:items} %>
+	${3:<%= ${4:$1.name} %>}
+<% end %>]]></content>
+    <tabTrigger>forinh</tabTrigger>
+    <scope>source.ruby.rails</scope>
+    <description>for_in html</description>
+</snippet>

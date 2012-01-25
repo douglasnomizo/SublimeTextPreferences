@@ -1,0 +1,33 @@
+<snippet>
+    <content><![CDATA[<% form_for $1 do |f| %>
+	
+	<%= f.label :text_area %>
+  <%= f.text_area :x %>
+  <br />
+	
+  <%= f.label :text_field %>
+  <%= f.text_field :x %>
+  <br />
+  
+  <%= f.label :check_box %> 
+  <%= f.check_box :x %> 
+  <br />
+  
+  <%= f.label :file_field %> 
+  <%= f.file_field :x %>
+  <br />
+  
+  <%= f.label :password_field %>
+  <%= f.password_field :x %>
+  <br />
+	
+  <%= f.label :date_select %>
+  <%= f.date_select :x %>
+  <br />
+  
+  <p class="button"><%= f.submit %></p>
+<% end %>]]></content>
+    <tabTrigger>form</tabTrigger>
+    <scope>source.ruby.rails, text.html.ruby, text.haml</scope>
+    <description>form_for</description>
+</snippet>
