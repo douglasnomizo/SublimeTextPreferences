@@ -1,7 +1,0 @@
-<snippet>
-    <content><![CDATA[find(:first, :conditions => ["$1", ])
-		]]></content>
-    <tabTrigger>ffc</tabTrigger>
-    <scope>source.ruby.rails, source.ruby, text.html.ruby</scope>
-    <description>find_first_conditions</description>
-</snippet>
