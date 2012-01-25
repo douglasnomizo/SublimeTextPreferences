@@ -1,1 +1,1 @@
-To use this snippets just place all files in your Rails folder under Sublime Text 2/Packages
+To use these snippets just place all files in your Rails folder under Sublime Text 2/Packages
