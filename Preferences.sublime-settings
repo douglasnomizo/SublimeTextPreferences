@@ -1,0 +1,16 @@
+{
+  "bold_folder_labels": true,
+  "color_scheme": "Packages/Color Scheme - Default/Solarized (Dark).tmTheme",
+  "draw_white_space": "all",
+  "ensure_newline_at_eof_on_save": true,
+  "fallback_encoding": "UTF-8",
+  "highlight_line": true,
+  "margin": 0,
+  "save_on_focus_lost": true,
+  "show_encoding": true,
+  "show_line_endings": true,
+  "tab_size": 2,
+  "translate_tabs_to_spaces": true,
+  "trim_automatic_white_space": true,
+  "trim_trailing_white_space_on_save": true
+}
